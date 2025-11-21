@@ -18,4 +18,5 @@ Confira a solução a funcionar e a integração com a API:
 3. Instale as dependências na primeira célula:
    `!pip install -q -U google-generativeai requests`
 4. Insira sua **Google API Key** na variável indicada.
-5. Execute o script.
+   *(Se não tiver uma, crie gratuitamente em: https://aistudio.google.com/app/apikey)*
+6. Execute o script.
